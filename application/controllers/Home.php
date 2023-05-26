@@ -20,7 +20,7 @@ class Home extends CI_Controller {
 	 */
 	public function index()
 	{
-		$data['judul']='Utama';
+		$data['judul']=' Halaman Utama';
 		$this->load->view('templates/header',$data);
 		$this->load->view('templates/content');
 		$this->load->view('templates/footer');
