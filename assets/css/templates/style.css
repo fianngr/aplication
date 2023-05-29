@@ -92,12 +92,13 @@ body{
 .preview {
   margin-top: 5vh;
 }
+
 .bestseller {
   display: flex;
   flex-direction: row;
   margin-top: 5vh;
   width: 100%;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 figcaption {
@@ -123,7 +124,14 @@ section a {
 }
 
 .content-product{
-  width: 80%;
+  width: 20vw;
   margin: 0 10px ;
   
 }
+
+
+
+.blockcode a{
+  text-decoration: none;
+}
+

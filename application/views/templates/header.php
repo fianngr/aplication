@@ -14,11 +14,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	
 </head>
 <body>
-	<div class="preloader">
+	<!-- <div class="preloader">
 		<div class="loading">
 			<img src="<?=base_url()?>assets/images/home/loading.gif">
 		</div>
-	</div>	
+	</div>	 -->
 	<div class="container" style="height: 1200px;">
 		<div class="container" >
 			<nav class="navbar navbar-expand-lg bg-body-tertiary mb-5">
